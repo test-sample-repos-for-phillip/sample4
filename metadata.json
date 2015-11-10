@@ -1,6 +1,6 @@
 {
     "concepts":["gpu"],
-    "lang":"f#",
+    "lang":"F#",
     "author":"cartermp",
     "title":"OpenGL GPU Kernel",
     "description":"Shows how to perform general purpose GPU computations with OpenGL."
